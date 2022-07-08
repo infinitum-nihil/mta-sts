@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: us-smtp-inbound-1.mimecast.com
 mx: us-smtp-inbound-2.mimecast.com
 max_age: 604800
