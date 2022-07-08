@@ -11,4 +11,7 @@ https://datatracker.ietf.org/doc/html/rfc8461
 to learn about mta-sts in general, check these out:
 
 https://www.ncsc.gov.uk/collection/email-security-and-anti-spoofing/using-mta-sts-to-protect-the-privacy-of-your-emails
+
+
+
 https://support.google.com/a/answer/9261504
